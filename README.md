@@ -12,7 +12,7 @@ This is a custom provider for [fzaniotto/Faker](https://github.com/fzaninotto/Fa
 You can install the package via composer:
 
 ```bash
-composer require paulhennell/faker-news
+composer require awladdeleo/faker-news
 ```
 
 ## Usage
